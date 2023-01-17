@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "สมชาย",
+        "lastname": "ทรงแบด",
+        "phone": "081 123 4567",
+        "postcode": "50270",
+        "subdist": "บ้านทับ",
+        "district": "แม่แจ่ม",
+        "province": "เชียงใหม่"
+    },
+    {
+        "firstname": "พชร",
+        "lastname": "บรรจง",
+        "phone": "095 134 1428",
+        "postcode": "50210",
+        "subdist": "หนองจ๊อม",
+        "district": "สันทราย",
+        "province": "เชียงใหม่"
+    }
+]
